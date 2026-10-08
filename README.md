@@ -37,4 +37,4 @@ Open the notebooks from `notebooks/` so `../src` is on the path. Run them in thi
 
 1. `Preprocessing.ipynb` builds `data/multi-player.csv`.
 2. `generate_alternation_index.ipynb` fits the index and writes it to `data/indices/`. `generate_alternation_index_simple.ipynb` is the same pipeline on a small sample.
-3. `Fig2A.ipynb`, `Fig2BandC.ipynb`, and `Fig3.ipynb` read the saved MLP and write figures to `images/exploratory/`.
+3. `Fig2A.ipynb`, `Fig2BandC.ipynb`, and `Fig3.ipynb` write the corresponding figures from the paper to `images/exploratory/`.
